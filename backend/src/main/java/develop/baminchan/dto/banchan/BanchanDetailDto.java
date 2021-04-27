@@ -9,7 +9,7 @@ public class BanchanDetailDto {
     private BanchanDetailDataDto data;
 
     public BanchanDetailDto(BanchanDetail banchanDetail) {
-        this.hash = banchanDetail.getDetail_hash();
+        this.hash = banchanDetail.getHash();
         data = new BanchanDetailDataDto.DataDtoBuilder()
                 .setTop_image(banchanDetail.getData().getTop_image())
                 .setThumb_images(convertToSet(banchanDetail.getData().getThumb_images()))
