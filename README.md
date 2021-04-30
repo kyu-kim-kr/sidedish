@@ -29,4 +29,5 @@
 ---
 ![프로젝트 진행 방식](https://user-images.githubusercontent.com/62237639/115204313-4fd9a600-a133-11eb-9e1a-13d6f06182c5.png)
 
+![컴포넌트 구조](https://user-images.githubusercontent.com/62237639/116667247-f09f4f80-a9d6-11eb-8afe-03110e3d4ab3.png)
 
