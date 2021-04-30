@@ -1,4 +1,4 @@
-SideDish Web Application Project By Rano, Eve, Kyu of Team 18
+# SideDish Web Application Project By Rano, Eve, Kyu of Team 18
 
 SideDish 웹 어플리케이션은 코드스쿼드에서 샘플로 제공하는 웹 기획서와 Mock API를 참고해서 웹개발을 하는 프로젝트입니다.
 
