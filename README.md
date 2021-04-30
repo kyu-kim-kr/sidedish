@@ -54,11 +54,6 @@ java -jar <파일이름>
 기본적으로 URL은 `/api`로 시작합니다.
 자세한 API 내용은 일단 코드를 참고해주세요.
 
-# sidedish
-그룹프로젝트 #2
-
----
-
 ## 커밋 메시지 규칙
 
 - feat : 새로운 기능 추가
@@ -71,19 +66,21 @@ java -jar <파일이름>
 
 커밋은 기본적으로 한글로, 말머리만 영어로
 
----
+## 프론트 컴포넌트 구조
+
+![컴포넌트 구조](https://user-images.githubusercontent.com/62237639/116667247-f09f4f80-a9d6-11eb-8afe-03110e3d4ab3.png)
 
 ## 브랜치 규칙
-![브랜치 규칙](https://user-images.githubusercontent.com/62237639/115202663-94fcd880-a131-11eb-8708-23c7a09cc200.png)
 
----
+![브랜치 규칙](https://user-images.githubusercontent.com/62237639/115202663-94fcd880-a131-11eb-8708-23c7a09cc200.png)
 
 ## 프로젝트 관리
 
 ![프로젝트 관리](https://user-images.githubusercontent.com/62237639/115204101-16a13600-a133-11eb-994c-f4c8ba1d22db.png)
 
----
+## 애자일하게?
+
 ![프로젝트 진행 방식](https://user-images.githubusercontent.com/62237639/115204313-4fd9a600-a133-11eb-9e1a-13d6f06182c5.png)
 
-![컴포넌트 구조](https://user-images.githubusercontent.com/62237639/116667247-f09f4f80-a9d6-11eb-8afe-03110e3d4ab3.png)
+
 
